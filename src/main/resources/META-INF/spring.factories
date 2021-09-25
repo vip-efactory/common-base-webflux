@@ -1,0 +1,3 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+    vip.efactory.common.base.utils.ValidateModelUtil,\
+    vip.efactory.common.base.utils.SpringContextHolder
